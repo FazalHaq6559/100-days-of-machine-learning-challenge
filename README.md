@@ -41,5 +41,4 @@ I'm starting with Python to build a strong foundation. Here’s the roadmap I'm 
 
 ---
 
-## 📁 Folder Structure
 
