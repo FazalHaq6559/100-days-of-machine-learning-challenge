@@ -58,7 +58,7 @@ By the end of this lesson, I can:
 
 ## 📂 Files Included
 
-- `Day_01_Print_Comments_Escape_Sequences.ipynb` – Jupyter notebook with answers to all practice questions.
+- `Day_01.ipynb` – Jupyter notebook with answers to all practice questions.
 - `README.md` – This file describing the day’s content.
 
 ---
